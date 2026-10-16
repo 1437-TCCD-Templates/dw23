@@ -13,7 +13,7 @@ public:
   double area() const override;
 
 private:
-  double radius_;
+  double m_radius;
 };
 
 #endif
